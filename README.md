@@ -7,7 +7,7 @@ Design a website like the one given below
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>HASI TECH</title>
+    <title>KAV TECH</title>
     <style type="text/css">
       * {
         margin: 0;
@@ -18,7 +18,7 @@ Design a website like the one given below
         width: 100%;
         height: 95vh;
         background-image: linear-gradient(
-            rgba(218, 62, 62, 0.75),
+            rgba(9, 2, 2, 0.75),
             rgba(0, 0, 0, 0.75)
           ),
           url(BG.jpeg);
@@ -34,19 +34,19 @@ Design a website like the one given below
         justify-content: space-between;
       }
       .logo {
-        color: #fcf9f8;
+        color: #0bfbdf;
         font-size: 40px;
         font-weight: 700;
         letter-spacing: 3px;
       }
       span {
-        color: rgb(237, 32, 32);
+        color: rgb(24, 150, 196);
       }
       form {
         width: 300px;
         height: 40px;
         display: flex;
-        background: rgba(0, 0, 0, 0.2);
+        background: rgba(255, 255, 255, 0.2);
         padding: 1px 1px;
         font-size: 15px;
         border-radius: 10px;
@@ -129,7 +129,7 @@ Design a website like the one given below
       }
       .login {
         margin: 0px 10px;
-        border: 2px solid rgb(0, 213, 255);
+        border: 2px solid red;
         padding: 13px 35px;
         letter-spacing: 1px;
         color: white;
@@ -146,12 +146,12 @@ Design a website like the one given below
       }
       .signup {
         margin: 0px 10px;
-        border: 2px solid rgb(0, 213, 255);
+        border: 2px solid green;
         padding: 13px 35px;
         letter-spacing: 1px;
         color: white;
         border-radius: 30px;
-        background-color: rgb(0, 85, 128);
+        background-color: green;
         text-decoration: none;
       }
       .signup:hover {
@@ -167,7 +167,7 @@ Design a website like the one given below
 
         transition: 0.5s;
         cursor: pointer;
-        
+        border-radius: 30px;
         background: red;
         color: #081b29;
         box-shadow: 0 0 20px red;
@@ -178,7 +178,7 @@ Design a website like the one given below
     <div class="banner">
       <br />
       <div class="navbar">
-        <h1 class="logo">H<span>ASI</span>T<span>ECH</span></h1>
+        <h1 class="logo">K<span>AV</span>T<span>ECH</span></h1>
         <ul>
           <li><a href="home.html"> Home </a></li>
           <li><a href="products.html"> Products </a></li>
@@ -193,7 +193,7 @@ Design a website like the one given below
       <div class="content">
         <div class="text">
           <h2>
-            "Innovating with purpose, precision, and a passion for the extraordinary" 
+            "Crafting the Future, One Innovation at a Time." 
           </h2>
           <br />
 
@@ -206,10 +206,10 @@ Design a website like the one given below
       </div>
     </div>
     <footer>
-        <center style="color: #FFFFFF; font-family: Arial, sans-serif;">DESIGNED AND DEVELOPED BY HARSHINI S (212221220018)</center>
-      </footer>
-    </body>
-    </html>
+      <center>DESIGNED AND DEVELOPED BY B.KAVIYA</center>
+    </footer>
+  </body>
+</html>
 ```
 
 # products.html
@@ -440,7 +440,7 @@ Design a website like the one given below
       </div>
     </div>
     <footer>
-      <center>Designed and DEVELOPED BY HARSHINI S (212221220018)</center>
+      <center>Designed and DEVELOPED BY B.KAVIYA</center>
     </footer>
   </body>
 </html>
@@ -592,7 +592,7 @@ Design a website like the one given below
     <div class="banner">
       <br />
       <div class="navbar">
-        <h1 class="logo">H<span>ASI</span>T<span>ECH</span></h1>
+        <h1 class="logo">K<span>AVI</span>T<span>ECH</span></h1>
         <ul>
           <li><a href="home.html"> Home </a></li>
           <li><a href="products.html"> Products </a></li>
@@ -615,7 +615,7 @@ Design a website like the one given below
             <td><img src="/Users/admin/Desktop/MFS/elon_musk_royal_society.jpg" /></td>
           </tr>
           <tr align="center" class="space">
-            <th>HARSHINI SRINIVASAN</th>
+            <th>KAVIYA BALAJI</th>
             <th>MARK ZUCKERBERG</th>
             <th>STEVE JOBS</th>
             <th>SUNDAR PICHAI</th>
@@ -634,7 +634,7 @@ Design a website like the one given below
       </div>
     </div>
     <footer>
-      <center>DESIGNED AND DEVELOPED BY HARSHINI S (212221220018)</center>
+      <center>DESIGNED AND DEVELOPED BY KAVIYA</center>
     </footer>
   </body>
 </html>
@@ -881,14 +881,14 @@ Design a website like the one given below
       </div>
     </div>
     <footer>
-      <center>DESIGNED AND DEVELOPED BY HARSHINI S (212221220018)</center>
+      <center>DESIGNED AND DEVELOPED BY  KAVIYA</center>
     </footer>
   </body>
 </html>
 ```
 
 # OUTPUT
-![Screenshot 2024-07-04 at 1 35 55 PM](https://github.com/Harshinisrini1910/css-project/assets/161415847/3536f8b8-7795-4351-9a49-96de8afeefed)
-![Screenshot 2024-07-04 at 1 36 04 PM](https://github.com/Harshinisrini1910/css-project/assets/161415847/443e059e-89aa-46f4-80eb-28b6a7028a8a)
+![Screenshot 2024-07-04 at 1 35 55 PM](https://github.com/kaviyabalaji/css-project/blob/main/Screenshot%202024-07-04%20140459.png)
+![Screenshot 2024-07-04 at 1 36 04 PM](https://github.com/kaviyabalaji/css-project/blob/main/Screenshot%202024-07-04%20140512.png)
 ![Screenshot 2024-07-04 at 1 36 13 PM](https://github.com/Harshinisrini1910/css-project/assets/161415847/5ae6a444-a973-461b-9e7e-4ea29da1b771)
-![Screenshot 2024-07-04 at 1 36 24 PM](https://github.com/Harshinisrini1910/css-project/assets/161415847/4512c867-a796-427a-9c7f-4c73bce48028)
+![Screenshot 2024-07-04 at 1 36 24 PM](https://github.com/kaviyabalaji/css-project/blob/main/Screenshot%202024-07-04%20140523.png)
